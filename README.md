@@ -72,11 +72,18 @@ I'll update this section as I remember my reasons for modification.
 
 
 ## Added Features
-Refer to [`project wiki`](https://github.com/schneider-san/Zaibatsu/wiki) on how to use.
-#### Define Target Resource Path
-You can now include a target resource path without including it in phishing url (for instance, `evilginx2` generated urls) using the [`forwardTo`](https://github.com/schneider-san/Zaibatsu/wiki#added-features) config option.
+Refer to [`project wiki`](https://github.com/schneider-san/Zaibatsu/wiki) for more details and how to use.
 #### - Multi-Target Phishing Campaigns
 You can now target multiple or duplicate domains with multiple instances of modlishka using the same or different Apache vhost and modlishka config files, but listening on different ports. Eg. Microsoft office, LinkedIn, Google, Twitter, and Facebook; all in the same server
+#### - Define Target Resource Path
+You can now include a target resource path without including it in phishing url (for instance, `evilginx2` generated urls) using the [`forwardTo`](https://github.com/schneider-san/Zaibatsu/wiki#added-features) config option.
+#### - Define Optional Credentials
+You can now capture an arbitrary number of credentials so you never lose the most recent one. Eg. capture both old and new passwords incase of password reset during phishing attempt.
+For instance LinkedIn, old passwordfield = session_keys ;while New passwordfield during password reset = confirmPassword || newPassword
+#### Define Target Cookie Names
+You can now define relevant cookies to be harvested upon successful phishing attempt.
+#### Define External Crawler User-Agent Config File
+#### Define External IP/CIDR Blocklist Config File
 #### E-Mail Notification and Report
 `... If the internet wasn't remote, where'd I be? ....`
 
