@@ -119,7 +119,7 @@ Ye, that's right kiddies. `... walk off ... outta here ` (Jalissa from Tory Lane
 
 ## Issues and Support
 
-I am mostly looking for legitimate bugs in code or enhancement opportunities and not to be a personal help desk support for struggles during your setup. You should understand the prerequisites of setting up a social engineering campaign including how `Apache`, `DNS`, `SSL certificates`, `modlishka`, and/or proxies work to use and setup this tool. With that being said, issues falling into these categories will be closed.
+I am mostly looking for legitimate bugs in code or enhancement opportunities and not to be a personal help desk support for struggles during your setup. You should understand the prerequisites of setting up a social engineering campaign including how `Apache`, `DNS`, `SSL certificates`, `Modlishka`, and/or proxies work to use and setup this tool. With that being said, issues falling into these categories will be closed.
 
 If you open an issue, please provide as much detailed information as possible about the issue including output pertaining to the issue. Issues with lack of detail or output will be closed.
 
@@ -128,8 +128,8 @@ The [License](https://github.com/drk1wi/Modlishka/blob/master/LICENSE) from the 
 
 ## Contributing
 
-If you have improvement ideas, new redirect rules, new IP addresses/blocks to blacklist, phishlets, or suggestions; open a pull request or reach me on:
+If you have improvement ideas, new config(s), or suggestion(s); open a pull request or reach me on:
 #### 
       - ICQ: @murasasaki
-      - XAMPP: murasaki@wiuwiu.de
+      - JABBER: murasaki@wiuwiu.de
       - Telegram: @murasasaki
