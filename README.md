@@ -38,7 +38,7 @@ It is no longer news that some person(s) with nefarious intentions are bound to 
 
 #### `... Hard times make Stronger men; Stronger men make Soft times; Soft times make Hard times; and whilst mankind continues to bask in existence, these statements will always be true ...`
 
-So I decided today, to release my modified version of the [modlishka project](https://github.com/drk1wi/Modlishka) to the public. This project utilizes and/or in some other words, abuses [`Google Forms`](https://forms.google.com/) Now, Google may alter if not terminate some of these features/addons (yet to be stated) rendered by Google Forms with the purpose of countering misuse, and for the betterment of our cyber eco-system.
+So I decided today, to strip off some potent features before publishing my modified version of the [modlishka project](https://github.com/drk1wi/Modlishka). This project utilizes and/or in some other words, abuses [`Google Forms`](https://forms.google.com/) Now, Google may alter if not terminate some of these features/addons (yet to be stated) rendered by Google Forms with the purpose of countering misuse, and for the betterment of our cyber eco-system.
 
 #### `... Personally, I'd teach a friend 999+1 ways to beat his adversaries and observe closely his dynamics so that I too can better protect myself for the day that I become his adversary ...`
 
