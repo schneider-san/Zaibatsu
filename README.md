@@ -81,7 +81,7 @@ You can now target multiple or duplicate domains with multiple instances of modl
 **`... If the internet wasn't made of gold, where'd I be? ....`**
 This is where Google Forms comes in. Unlike modlishka, evilginx, and muraena; you can now receive phished credentials right in your mailbox. This counters the problem of losing harvests. To use, setup google forms and configure forms notification by [appsrecord](https://appsrecord.com)
 #### GeoLocation Report
-**`... how can you say to me "who are you?"; "I am the the man who exists in the being before the beign of the man in your eyes"; hahaha "Who am I?" ... `**
+**`... how can you say to me "who are you?"; "I am the the man who exists in the being before the beign of the man in your eyes"; ...`**
 An impersonation is almost never complete without a geoloc report. A full geolocation IP is reported with the stolen credentials.
 
 ## Infrastructure Layout
