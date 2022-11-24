@@ -55,18 +55,16 @@ I will highlight some of the problems faced with using Modlishka.
 This project addresses the following constraints;
 
 #### 1. Impractical system of tracking in multi-targeted phishing campaigns
-Although `Modlishka` provides a tracking system for its phished users, this is only practical in spear phishing campaigns and greatly impractical in multi-targeted phishing campaigns. Phishing multiple targets with the same link and containing the same tracking_param value causes modlishka to overwrite grabbed credentials and cookies with the newest values. Of course, one can setup a go-between to append auto-generated tracking_param values to the url; but this can increase the time to success of a phishing campaign. This can pose an unpleasant-boil-on-buttocks problem for `script kiddies` and an avoidable routine for actors in the `"spray and pray" sector.`
-#### - Improvision - Modlishka now autogenerates a unique tracking param for an arbitrary number of victims, only and only if the tracking_param key was included in the accessed link. 
-
+Although `Modlishka` provides a tracking system for its phished users, this is only practical in spear phishing campaigns and greatly impractical in multi-targeted phishing campaigns. Phishing multiple targets with the same link and containing the same tracking_param value can cause modlishka to overwrite grabbed credentials and cookies with the newest stolen values. Of course, one can setup a go-between to append auto-generated tracking_param values to the url; but this can increase the time to success of a phishing campaign. This can present an unpleasant-boil-on-buttocks for `script kiddies` and an avoidable routine for actors in the `"spray and pray" sector.`
+    #### ~> Improvision ~> Modlishka now autogenerates a unique tracking param for an arbitrary number of victims, only and only if the tracking_param key was included in the accessed link. 
 
 #### 2. Short Internet Lifespan
-Due to the effectiveness of modlishka's functionality, one being its ability to impersonate a parent domain and it's subdomains, and its ability to follow-urls as in Microsoft ADFS; it's presence can almost be immediately identified on the internet and its proxydomain immediately flagged if not burnt.
-#### - Improvision - Local server proxying through Apache2 server with modifiable virtualhosts files
-
+Due to the high rated potency of modlishka's functionality, one being its ability to impersonate a parent domain and it's subdomains, and its ability to impersonate Federated Services as in `Microsoft's ADFS`, and LinkedIn's `sign in with google`; it's presence can almost be immediately identified on the internet and its proxydomain and server immediately flagged if not burnt.
+    #### ~> Improvision ~> Local server proxying with Apache modifiable virtualhost files.
 
 #### 3. Zero support for known crawlers/bots/blacklisted IP(s) and/or CIDR(s)
 Modlishka has an inbuilt security features which can block the initiators of suspicious activities on it's server, but it does not block known internet web crawlers/bot/IP(s)/CIDR(s) from accessing legitimate url paths.
-#### - Improvision - Added support for user agent and ip/cidr via Apache2. - courtesy of [Dylan Evans](https://github.com/fin3ss3g0d)
+    #### ~> Improvision ~> Added support for user agent and ip/cidr via Apache2. - courtesy of [Dylan Evans](https://github.com/fin3ss3g0d)
 
 I'll update this section as I remember my reasons for modification.
 
