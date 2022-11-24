@@ -19,7 +19,7 @@
 
 ### A variant of [Modlishka](https://github.com/drk1wi/Modlishka).
 
-####    `... If you truly are a son of God, tell these stones to become loaves of bread ...`
+**`... If you truly are a son of God, tell these stones to become loaves of bread ...`**
 
 ## Credits
 
@@ -36,21 +36,21 @@ It is no longer news that some person(s) with nefarious intentions are bound to 
 
 ## Preamble
 
-#### `... Hard times make Stronger men; Stronger men make Soft times; Soft times make Hard times; and whilst mankind continues to bask in existence, these statements will always be true ...`
+**`... Hard times make Stronger men; Stronger men make Soft times; Soft times make Hard times; and whilst mankind continues to bask in existence, these statements will always be true ...`**
 
 So I decided today, to strip off some potent features before publishing my modified version of the [modlishka project](https://github.com/drk1wi/Modlishka). This project utilizes and/or in some other words, abuses [`Google Forms`](https://forms.google.com/) Now, Google may alter if not terminate some of these features/addons (yet to be stated) rendered by Google Forms with the purpose of countering misuse, and for the betterment of our cyber eco-system.
 
-#### `... Personally, I'd teach a friend 999+1 ways to beat his adversaries and observe closely his dynamics so that I too can better protect myself for the day that I become his adversary ...`
+**`... Personally, I'd teach a friend 999+1 ways to beat his adversaries and observe closely his dynamics so that I too can better protect myself for the day that I become his adversary ...`**
 
 ## Why?
 
 As a penetration tester or red teamer or individual(s) with `'naturally-unholy-intentions'` in the domain of cyber security, you may have heard of [`Modlishka`](https://github.com/drk1wi/Modlishka) or [`evilginx2`](https://github.com/kgretzky/evilginx2). These among others (as a proxy man-in-the-middle framework) are capable of bypassing two-factor/multi-factor authentication (2FA/MFA); But,
-#### `... since all that glitters is not gold and gold is not all that glitters and gold is definitely in all that glitters ...`
+**`... since all that glitters is not gold and gold is not all that glitters and gold is definitely in all that glitters ...`**
 I will highlight some of the problems faced with using Modlishka.
 
 ## Modlishka
 
-#### `... Woe for the earth ... for the devil has been cast away from heaven ...`
+**`... Woe for the earth ... for the devil has been cast away from heaven ...`**
 
 This project addresses the following constraints;
 
@@ -72,22 +72,17 @@ I'll update this section as I remember my reasons for modification.
 
 
 ## Added Features
-Refer to [`project wiki`](https://github.com/schneider-san/Zaibatsu/wiki) for more details and how to use.
+Refer to [`project wiki`](https://github.com/schneider-san/Zaibatsu/wiki) on how to use.
+#### Define Target Resource Path
+You can now include a target resource path without including it in phishing url (for instance, `evilginx2` generated urls) using the [`forwardTo`](https://github.com/schneider-san/Zaibatsu/wiki#added-features) config option.
 #### - Multi-Target Phishing Campaigns
 You can now target multiple or duplicate domains with multiple instances of modlishka using the same or different Apache vhost and modlishka config files, but listening on different ports. Eg. Microsoft office, LinkedIn, Google, Twitter, and Facebook; all in the same server
-#### - Define Target Resource Path
-You can now include a target resource path without including it in phishing url (for instance, `evilginx2` generated urls) using the [`forwardTo`](https://github.com/schneider-san/Zaibatsu/wiki#added-features) config option.
-#### - Define Optional Credentials
-You can now capture an arbitrary number of credentials so you never lose the most recent one. Eg. capture both old and new passwords incase of password reset during phishing attempt.
-For instance LinkedIn, old passwordfield = session_keys ;while New passwordfield during password reset = confirmPassword || newPassword
-#### Define Target Cookie Names
-You can now define relevant cookies to be harvested upon successful phishing attempt.
-#### Define External Crawler User-Agent Config File
-#### Define External IP/CIDR Blocklist Config File
 #### E-Mail Notification and Report
-`... If the internet wasn't remote, where'd I be? ....`
-
-This is where Google Forms comes in. Unlike modlishka, evilginx, and muraena; you can now receive phished credentials right in your mailbox. This counters the problems of losing harvests.
+**`... If the internet wasn't made of gold, where'd I be? ....`**
+This is where Google Forms comes in. Unlike modlishka, evilginx, and muraena; you can now receive phished credentials right in your mailbox. This counters the problem of losing harvests. To use, setup google forms and configure forms notification by [appsrecord](https://appsrecord.com)
+#### GeoLocation Report
+**`... how can you say to me "who are you?"; "I am the the man who exists in the being before the beign of the man in your eyes"; hahaha "Who am I?" ... `**
+An impersonation is almost never complete without a geoloc report. A full geolocation IP is reported with the stolen credentials.
 
 ## Infrastructure Layout
 
