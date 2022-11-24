@@ -93,8 +93,9 @@ An impersonation is almost never complete without a geolocation report. Geolocat
 
 ## Installation
 
-In an attempt to reduce the misuse of the software, I will not provide a precompiled binary package and/or an automated installation script. You are required to compile from source.
-Ye, that's right kiddies. `... walk off ... outta here ` (Jalissa from Tory Lanez - Chixtape 5)
+In an attempt to discourage misuse of this software, I shall not provide a precompiled binary package and/or an automated installation script. You are required to compile from source.
+
+`... Ye, that's right kiddies.  walk off ...`
 
 #### X Started
  - Add your proxydomain to hosts file
