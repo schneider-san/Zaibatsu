@@ -38,7 +38,7 @@ It is no longer news that some person(s) with nefarious intentions are bound to 
 
 **`... Hard times make Stronger men; Stronger men make Soft times; Soft times make Hard times; and whilst mankind continues to bask in existence, these statements will always be true ...`**
 
-So I decided today, to strip off some potent features before publishing my modified version of the [modlishka project](https://github.com/drk1wi/Modlishka). This project utilizes and/or in some other words, abuses [`Google Forms`](https://forms.google.com/) Now, Google may alter if not terminate some of these features/addons (yet to be stated) rendered by Google Forms with the purpose of countering misuse, and for the betterment of our cyber eco-system.
+Before publishing this modified version of the [modlishka project](https://github.com/drk1wi/Modlishka), I removed so many potent codes and features for fear of what I think to be the most suitable expression, "BEC Cyber Terrorrism". This project utilizes and/or abuses [`Google Forms.`](https://forms.google.com/) Now, Google may alter if not terminate some of these features/addons ([check project wiki](https://github.com/schneider-san/Zaibatsu/wiki/Extended-Configuration-Format#additions)) rendered by Google Forms in an attempt to counter misuse, and for the betterment of our cyber eco-system.
 
 **`... Personally, I'd teach a friend 999+1 ways to beat his adversaries and observe closely his dynamics so that I too can better protect myself for the day that I become his adversary ...`**
 
@@ -74,13 +74,13 @@ I'll update this section as I remember my reasons for modification.
 ## Added Features
 Refer to [`project wiki`](https://github.com/schneider-san/Zaibatsu/wiki) on how to use.
 #### Define Target Resource Path
-You can now include a target resource path without including it in phishing url (for instance, `evilginx2` generated urls) using the [`forwardTo`](https://github.com/schneider-san/Zaibatsu/wiki#added-features) config option.
+You can now include a target resource path without including it in phishing url (for instance, `evilginx2` generated urls) using the [`forwardTo`](https://github.com/schneider-san/Zaibatsu/wiki/Extended-Configuration-Format#additions) config option.
 #### - Multi-Target Phishing Campaigns
 You can now target multiple or duplicate domains with multiple instances of modlishka using the same or different Apache vhost and modlishka config files, but listening on different ports. Eg. Microsoft office, LinkedIn, Google, Twitter, and Facebook; all in the same server
 #### E-Mail Notification and Report
 **`... If the internet wasn't made of gold, where'd I be? ....`** 
 
-This is where Google Forms comes in. Unlike modlishka, evilginx, and muraena; you can now receive phished credentials right in your mailbox. This counters the problem of losing harvests. To use, setup google forms and configure **`forms notification`** by **[`appsrecord`](https://appsrecord.com)**.
+Unlike modlishka and evilginx, you can now receive phished credentials right in your mailbox. This can solve the problem of losing harvests to expired or server "takedown-s". To use, setup google forms and configure **`forms notification`** by **[`appsrecord`](https://appsrecord.com)**.
 #### GeoLocation Report
 **`... how can you say to me "who are you?"; "I am the the man who exists in the being before the beign of the man in your eyes"; ...`**
 
