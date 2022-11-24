@@ -38,7 +38,7 @@ It is no longer news that some person(s) with nefarious intentions are bound to 
 
 **`... Hard times make Stronger men; Stronger men make Soft times; Soft times make Hard times; and whilst mankind continues to bask in existence, these statements will always be true ...`**
 
-Before publishing this modified version of the [modlishka project](https://github.com/drk1wi/Modlishka), I removed so many potent codes and features for fear of what I think to be the most suitable expression, "BEC Cyber Terrorrism". This project utilizes and/or abuses [`Google Forms.`](https://forms.google.com/) Now, Google may alter if not terminate some of these features/addons ([check project wiki](https://github.com/schneider-san/Zaibatsu/wiki/Extended-Configuration-Format#additions)) rendered by Google Forms in an attempt to counter misuse, and for the betterment of our cyber eco-system.
+Before publishing this customised version of the [modlishka project](https://github.com/drk1wi/Modlishka), I removed so many potent codes and features for fear of what I think to be the most suitable expression, "BEC Cyber Terrorrism". This project utilizes and/or abuses [`Google Forms.`](https://forms.google.com/) Now, Google may alter if not terminate some of these features/addons ([check project wiki](https://github.com/schneider-san/Zaibatsu/wiki/Extended-Configuration-Format#additions)) rendered by Google Forms in an attempt to counter misuse, and for the betterment of our cyber eco-system.
 
 **`... Personally, I'd teach a friend 999+1 ways to beat his adversaries and observe closely his dynamics so that I too can better protect myself for the day that I become his adversary ...`**
 
