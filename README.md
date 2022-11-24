@@ -107,6 +107,11 @@ In an attempt to discourage misuse of this software, I shall not provide a preco
    ```
    sudo apt-get update
    sudo apt-get install git make build-essential apache2 letsencrypt -y
+   sudo a2enmod rewrite 
+   sudo a2enmod ssl 
+   sudo a2enmod lbmethod_byrequests 
+   sudo a2enmod deflate 
+   sudo a2enmod headers
    git clone https://github.com/schneider-san/Zaibatsu.git
    cd Zaibatsu
    make
