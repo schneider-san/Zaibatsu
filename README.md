@@ -91,7 +91,7 @@ An impersonation is almost never complete without a geolocation report. Geolocat
 - `Modlishka` will listen locally on any non-Apache2 arbitrary port eg. `8443`
 - `Apache2` will listen on port `443` externally and proxy to local `Modlishka` server
   - Requests will be filtered at `Apache2` layer based on redirect rules and IP blacklist configuration (courtesy of [Dylan Evans](https://github.com/fin3ss3g0d))
-    - Redirect functionality for unauthorized requests is still functional in `Modlishka` incase a request bypasses Apache.
+    - Redirect functionality for unauthorized requests is still functional in `Zaibatsu`, incase a request bypasses filtering at Apache Level.
 
 ## Installation
 
