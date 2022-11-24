@@ -132,7 +132,7 @@ The [License](https://github.com/drk1wi/Modlishka/blob/master/LICENSE) from the 
 
 ## Contributing
 
-If you have improvement ideas, new config(s), or suggestion(s); open a pull request or reach me on:
+If you have improvement ideas, new config(s), legitimate complaint(s), or suggestion(s); open a pull request or reach me on:
 #### 
       - JABBER: murasaki@wiuwiu.de
       - Telegram: @murasasaki
