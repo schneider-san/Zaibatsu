@@ -107,14 +107,16 @@ An impersonation is almost never complete without a geolocation report. Geolocat
    sudo a2enmod lbmethod_byrequests 
    sudo a2enmod deflate 
    sudo a2enmod headers
+   sudo a2enmod proxy
+   sudo a2enmod proxy_html
    git clone https://github.com/schneider-san/Zaibatsu.git
    cd Zaibatsu
    make
    ````
  - setup apache2 for public domain and configure ssl certificates
  - generate wildcard certificates for proxydomain
- - modify 000-default.conf file and copy to apache2 sites-enabled folder
- - copy redirect.rules and blacklist.conf files to apache2 default directory
+ - in zaibatsu/apache2, correct zaibatsu.conf and copy to apache2 sites-enabled folder
+ - copy redirect.rules and blacklist.conf files to apache2 base directory
  - restart apache2 service
  - You can now run compiled project binary from local directory like:
    ``` sudo ./zb -config configFileName ```
