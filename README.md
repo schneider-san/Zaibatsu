@@ -10,7 +10,6 @@
   * [Added Features](#added-features)
   * [Infrastructure Layout](#infrastructure-layout)
   * [Installation](#installation)
-    * [Prefixing the X in X-Started](#x-started)
   * [Issues and Support](#issues-and-support)
   * [License](#license)
   * [Contributing](#contributing)
@@ -38,7 +37,9 @@ It is no longer news that some person(s) with nefarious intentions are bound to 
 
 **`... Hard times make Stronger men; Stronger men make Soft times; Soft times make Hard times; and whilst mankind continues to bask in existence, these statements will always be true ...`**
 
-Before publishing this customised version of the [modlishka project](https://github.com/drk1wi/Modlishka), I removed so many potent codes and features for fear of what I think to be the most suitable expression, "BEC Cyber Terrorrism". This project utilizes and/or abuses [`Google Forms.`](https://forms.google.com/) Now, Google may alter if not terminate some of these features/addons ([check project wiki](https://github.com/schneider-san/Zaibatsu/wiki/Extended-Configuration-Format#additions)) rendered by Google Forms in an attempt to counter misuse, and for the betterment of our cyber eco-system.
+Before publishing this customised version of the [modlishka project](https://github.com/drk1wi/Modlishka), I removed so many potent codes and features for fear of what I think to be the most suitable expression, **`"BEC Cyber Terrorrism"`**. This project utilizes and/or abuses [`Google Forms.`](https://forms.google.com/) Bear in mind that Google may alter or terminate the use of these features/addons ([check wiki](https://github.com/schneider-san/Zaibatsu/wiki/Extended-Configuration-Format#additions)) in an attempt to counter misuse, and for the betterment of our cyber eco-system.
+
+*`Tips:`* Google Products, Malwares, Work Stations, and Firewalls... You dig **\*_\* ?**
 
 **`... Personally, I'd teach a friend 999+1 ways to beat his adversaries and observe closely his dynamics so that I too can better protect myself for the day that I become his adversary ...`**
 
@@ -82,7 +83,7 @@ Unlike modlishka and evilginx, you can now receive phished credentials right in 
 #### GeoLocation Report
 **`... how can you say to me "who are you?"; "I am the the man who exists in the being before the beign of the man in your eyes"; ...`**
 
-An impersonation is almost never complete without a geolocation report. Geolocation based off visitor'sIP is reported with the stolen credentials.
+An impersonation is almost never complete without a geolocation report. Geolocation, based off visitor's IP, is reported alongside stolen credentials.
 
 ## Infrastructure Layout
 
@@ -92,12 +93,6 @@ An impersonation is almost never complete without a geolocation report. Geolocat
     - Redirect functionality for unauthorized requests is still functional in `Zaibatsu`, incase a request bypasses filtering at Apache Level.
 
 ## Installation
-
-In an attempt to discourage misuse of this software, I shall not provide a precompiled binary package and/or an automated installation script. You are required to compile from source.
-
-`... Ye, that's right kiddies.  walk off ...`
-
-#### X Started
  - Add your proxydomain to hosts file
  - Setup local dns server
  - Add prefered ip address to nameservers
@@ -126,13 +121,14 @@ In an attempt to discourage misuse of this software, I shall not provide a preco
 
 
 ## Issues and Support
-
-I am mostly looking for legitimate bugs in code or enhancement opportunities and not to be a personal help desk support for struggles during your setup. You should understand the prerequisites of setting up a social engineering campaign including how `Apache`, `DNS`, `SSL certificates`, `Modlishka`, and/or proxies work to use and setup this tool. With that being said, issues falling into these categories will be closed.
+You should understand the prerequisites of setting up a social engineering campaign including how `Apache`, `DNS`, `SSL certificates`, `Modlishka`, and/or proxies work to use and setup this tool.
 
 If you open an issue, please provide as much detailed information as possible about the issue including output pertaining to the issue. Issues with lack of detail or output will be closed.
 
 ## License
-The [License](https://github.com/drk1wi/Modlishka/blob/master/LICENSE) from the original [Modlishka Project](https://github.com/drk1wi/Modlishka) still applies to and is included in this project.
+**... O Father, please take this cup away from me ...**
+
+The [License](https://github.com/drk1wi/Modlishka/blob/master/LICENSE) from the original [Modlishka Project](https://github.com/drk1wi/Modlishka) applies to and is included in this project.
 
 ## Contributing
 
