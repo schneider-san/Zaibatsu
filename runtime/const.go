@@ -19,10 +19,22 @@ package runtime
 const (
 	Disclaimer = ""
 	Banner     = `
- _______           __ __ __         __     __          
-|   |   |.-----.--|  |  |__|.-----.|  |--.|  |--.---.-.
-|       ||  _  |  _  |  |  ||__ --||     ||    <|  _  |
-|__|_|__||_____|_____|__|__||_____||__|__||__|__|___._|     v9.9.9`
+                                                                                
+                              ,dPYb,                 I8                        
+                              IP'`Yb                 I8                        
+                         gg   I8  8I              88888888                     
+                         ""   I8  8'                 I8                        
+    ,gggg,    ,gggg,gg   gg   I8 dP       ,gggg,gg   I8     ,g,     gg      gg 
+   d8"  Yb   dP"  "Y8I   88   I8dP   88ggdP"  "Y8I   I8    ,8'8,    I8      8I 
+  dP    dP  i8'    ,8I   88   I8P    8I i8'    ,8I  ,I8,  ,8'  Yb   I8,    ,8I 
+,dP  ,adP' ,d8,   ,d8b,_,88,_,d8b,  ,8I,d8,   ,d8b,,d88b,,8'_   8) ,d8b,  ,d8b,
+8"   ""Y8d8P"Y8888P"`Y88P""Y88P'"Y88P"'P"Y8888P"`Y88P""Y8P' "YY8P8P8P'"Y88P"`Y8
+      ,d8I'                                                                    
+    ,dP'8I                                                                     
+   ,8"  8I                                                                     
+   I8   8I                                                                     
+   `8, ,8I                                                                     
+    `Y8P"                                                                           v9.9.9`
 
 	TERMINATE_SESSION_COOKIE_NAME  = "li_atuid"
 	TERMINATE_SESSION_COOKIE_VALUE = "w7HCgMKuwqzDssKOwpXCpinDjMKKw7DCpcKAwq7DkMK2ZcOCwpHDq8KQwpLDs8KdwqfCn8OywpDCpsKLw5nCgcOvwpfCmA=="
